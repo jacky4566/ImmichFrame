@@ -13,7 +13,7 @@ That's where **ImmichFrame** comes in.
 
 ### Setup
 
-You need to run a separate **ImmichFrame** docker container.
+Alongside a regular Immich instance. You must also run a separate **ImmichFrame** docker container.
 
 ### Use Cases
 
